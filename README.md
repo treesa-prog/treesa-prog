@@ -18,7 +18,7 @@
 > Name: Treesa Biju
 > Role: B.Tech Computer Science Student
 > College: Saintgits College of Engineering
-> Focus: Cybersecurity | Software Development
+> Focus: Software Development
 > Status: Learning... Building... Improving...
 ```
 
@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
 
-<p align="center"><b style="color:#00ff00;">[ SYSTEM READY ]</b></p>
+<p align="center"><b style="color:#00ff00;">[ ACCESS GRANTED • WELCOME ]</b></p>
