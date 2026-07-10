@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Initializing+Profile...;Cybersecurity+Enthusiast;Future+Software+Engineer;Access+Granted+✔" />
 </p>
 
-<h3 align="center">🟢 System Status: ACTIVE | 🔐 Security Mode: ENABLED</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=treesa-prog&label=Profile%20Views&color=00ff00&style=flat" />
 </p>
