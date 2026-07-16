@@ -27,7 +27,7 @@
 ```bash
 > Languages: JavaScript, Python, HTML, CSS, SQL
 > Frameworks: Angular, React, Bootstrap, Node.js
-> Tools: Git, GitHub, VS Code, MongoDB
+> Tools: Git, GitHub, VS Code, 
 ```
 
 ---
